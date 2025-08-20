@@ -1,6 +1,7 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:3776AB&height=180&section=header&text=Italo%20Hugo&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:3776AB&height=180&section=header&text=Italo%20Hugo&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35](https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=200&section=header&text=Italo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20%7C%20Red%20Team&descAlign=50&descAlignY=65
+)"/>
 </div>
 
 <!-- Intro -->
