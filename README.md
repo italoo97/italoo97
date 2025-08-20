@@ -58,5 +58,5 @@ Aqui você vai encontrar meus projetos, estudos e experimentos práticos.
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:3776AB&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=120&section=footer"/>
 </div>
