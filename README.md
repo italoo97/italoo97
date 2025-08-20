@@ -4,7 +4,7 @@
 </div>
 
 <!-- Intro -->
-<h3 align="center">👨‍💻 Desenvolvedor Backend | 🔐 Cibersegurança</h3>
+<h3 align="center">👨‍💻 Backend | 🔐 Cibersegurança</h3>
 
 <p align="center">
 Sou apaixonado por tecnologia, buscando unir <b>desenvolvimento backend</b> e <b>cibersegurança ofensiva</b>.<br/>
