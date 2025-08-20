@@ -25,7 +25,7 @@ Aqui você vai encontrar meus projetos, estudos e experimentos práticos.
 
 ## 📌 Destaques
 - 🛠️ Criação de **APIs e automações** em Python & Go  
-- 🔒 Interesse em **segurança ofensiva e bug bounty**  
+- 🔒 Estudante de **Segurança Cibernética**  
 - ⚡ Desenvolvimento de **bots e sistemas escaláveis**  
 - 📊 Integração de dados e automação de planilhas  
 
