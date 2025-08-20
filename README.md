@@ -1,12 +1,19 @@
-# 👋 Olá, eu sou Italo Hugo!
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:3776AB&height=180&section=header&text=Italo%20Hugo&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+</div>
 
-Sou apaixonado por tecnologia, com foco em **desenvolvimento backend** e **cibersegurança ofensiva**.  
-Gosto de transformar ideias em soluções práticas e seguras, explorando tanto a construção de sistemas quanto a análise de vulnerabilidades.  
+<!-- Intro -->
+<h3 align="center">👨‍💻 Desenvolvedor Backend | 🔐 Entusiasta em Cibersegurança</h3>
+
+<p align="center">
+Sou apaixonado por tecnologia, buscando unir <b>desenvolvimento backend</b> e <b>cibersegurança ofensiva</b>.<br/>
+Aqui você vai encontrar meus projetos, estudos e experimentos práticos.
+</p>
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
-
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,29 +26,37 @@ Gosto de transformar ideias em soluções práticas e seguras, explorando tanto 
 
 ---
 
-## 📌 O que você vai encontrar aqui?
-- 🔹 Projetos em **Python** e **Go**  
-- 🔹 Desenvolvimento de **bots, APIs e automações**  
-- 🔹 Experimentos com **segurança ofensiva** e práticas de hardening  
-- 🔹 Estudos e implementações com **frameworks modernos**  
+## 📌 Destaques
+- 🛠️ Criação de **APIs e automações** em Python & Go  
+- 🔒 Interesse em **segurança ofensiva e bug bounty**  
+- ⚡ Desenvolvimento de **bots e sistemas escaláveis**  
+- 📊 Integração de dados e automação de planilhas  
 
 ---
 
-## 📊 Status do GitHub
-
+## 📊 Estatísticas
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italoo97&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🌐 Conecte-se comigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/italohbsantos)
-- 📧 **italohugodf39@gmail.com**
+## 🌍 Conecte-se comigo
+<p align="center">
+  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/italohbsantos)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:italohugodf39@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-✨ _“Código limpo é como uma piada bem contada: se você precisa explicar, não é tão bom assim.”_ ✨
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:3776AB&height=120&section=footer"/>
+</div>
