@@ -58,7 +58,3 @@ Aqui você vai encontrar meus projetos, estudos e experimentos práticos.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=120&section=footer"/>
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/italoo97/italoo97/output/snake.svg" alt="Snake animation" />
-</div>
