@@ -61,4 +61,4 @@ Aqui você vai encontrar meus projetos, estudos e experimentos práticos.
 <div align="center">
   <img src="https://raw.githubusercontent.com/italoo97/italoo97/output/snake.svg" alt="Snake animation" />
 </div>
-###
+
