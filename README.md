@@ -38,6 +38,7 @@ Aqui você vai encontrar meus projetos, estudos e experimentos práticos.
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="115"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoo97&layout=compact&theme=tokyonight&hide_border=true" height="285"/>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4490320" style='border:none;'></iframe>
 </div>
 
 
