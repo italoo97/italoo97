@@ -39,7 +39,7 @@ Aqui você vai encontrar meus projetos, estudos e experimentos práticos.
   <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="115"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoo97&layout=compact&theme=tokyonight&hide_border=true" height="285"/>
   <br><br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/italohugodf39.png" alt="Your Image Badge" />
+
 </div>
 
 
