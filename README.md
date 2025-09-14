@@ -58,9 +58,10 @@ Aqui você vai encontrar meus projetos, estudos e experimentos práticos.
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=curl_url)](https://github.com/italoo97/curl_url)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=curl_url)](https://github.com/italoo97/curl_url)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=curl_url)](https://github.com/italoo97/curl_url)
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=curl_url)](https://github.com/italoo97/curl_url)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=curl_url)](https://github.com/italoo97/curl_url)
+</div>
 
 <!-- Footer -->
 <div align="center">
