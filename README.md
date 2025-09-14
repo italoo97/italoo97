@@ -59,10 +59,10 @@ Aqui você vai encontrar meus projetos, estudos e experimentos práticos.
 ---
 <p align="center">
   <a href="https://github.com/italoo97/Ticket_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Ticket_System&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&cache_seconds=21600&text_color=FFFFFF"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Ticket_System&show_icons=true&theme=shadow_red&hide_border=false&count_private=true&cache_seconds=21600&text_color=FFFFFF&title_color=FFFFFF" height="200"/>
   </a>
   <a href="https://github.com/italoo97/Ticket_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Car_dealership_Django&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&cache_seconds=21600&text_color=FFFFFF"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Car_dealership_Django&show_icons=true&theme=shadow_red&hide_border=false&count_private=true&cache_seconds=21600&text_color=FFFFFF&title_color=FFFFFF" height="200"/>
   </a>
 </p>
 
