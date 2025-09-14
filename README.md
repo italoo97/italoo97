@@ -59,6 +59,8 @@ Aqui você vai encontrar meus projetos, estudos e experimentos práticos.
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=curl_url)](https://github.com/italoo97/curl_url)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=curl_url)](https://github.com/italoo97/curl_url)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=curl_url)](https://github.com/italoo97/curl_url)
 
 <!-- Footer -->
 <div align="center">
