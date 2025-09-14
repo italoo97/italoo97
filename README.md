@@ -58,6 +58,8 @@ Aqui você vai encontrar meus projetos, estudos e experimentos práticos.
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=curl-url)](https://github.com/italoo97/curl-url)
+
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=120&section=footer"/>
