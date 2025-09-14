@@ -57,11 +57,14 @@ Aqui você vai encontrar meus projetos, estudos e experimentos práticos.
 </p>
 
 ---
-
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Ticket_System&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&cache_seconds=21600&text_color=FFFFFF"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Car_dealership_Django&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&cache_seconds=21600&text_color=FFFFFF"/>
-</div>
+<p align="center">
+  <a href="https://github.com/italoo97/Ticket_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Ticket_System&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&cache_seconds=21600&text_color=FFFFFF"/>
+  </a>
+  <a href="https://github.com/italoo97/Ticket_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Car_dealership_Django&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&cache_seconds=21600&text_color=FFFFFF"/>
+  </a>
+</p>
 
 <!-- Footer -->
 <div align="center">
