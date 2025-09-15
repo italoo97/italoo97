@@ -36,7 +36,7 @@ Aqui você vai encontrar meus projetos, estudos e experimentos práticos.
 ## 📊 Estatísticas
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&cache_seconds=21600&include_all_commits=true&text_color=FFFFFF" height="139"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&cache_seconds=21600&text_color=FFFFFF" height="139"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoo97&layout=compact&theme=shadow_red&hide_border=true&cache_seconds=21600&text_color=FFFFFF" height="285"/>
   <br><br>
   <img src="https://tryhackme-badges.s3.amazonaws.com/italohugodf39.png?refresh=2" alt="TryHackMe Badge"/>
