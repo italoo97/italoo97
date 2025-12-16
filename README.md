@@ -80,6 +80,8 @@ Specializing in Django web applications, RESTful APIs, and custom Discord bots t
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&cache_seconds=21600&text_color=FFFFFF" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoo97&layout=compact&theme=shadow_red&hide_border=true&cache_seconds=21600&text_color=FFFFFF" height="165"/>
+  <br><br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/italohugodf39.png?refresh=2" alt="TryHackMe Badge"/>
 </div>
 
 ---
@@ -89,11 +91,11 @@ Specializing in Django web applications, RESTful APIs, and custom Discord bots t
 I don't just write code—I architect solutions. Whether you need a robust Django platform or a feature-rich Discord bot, I deliver clean, secure, and maintainable systems built to scale.
 
 **Available for:**
-- Django web application development
-- Discord bot creation and server setup
-- RESTful API development and integration
-- Backend system architecture
-- Database design and optimization
+- Freelance projects (Upwork & direct clients)
+- Long-term backend development
+- Discord automation & community infrastructure
+
+If you're looking for someone who can design, build, and maintain systems that scale, let’s talk.
 
 ---
 
@@ -106,7 +108,7 @@ I don't just write code—I architect solutions. Whether you need a robust Djang
   <a href="mailto:italohugodf39@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~YOUR_UPWORK_ID" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~013e013fd8a15d5ca2" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
