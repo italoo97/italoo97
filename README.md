@@ -1,37 +1,40 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=200&section=header&text=Italo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20%7C%20Red%20Team&descAlign=50&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=200&section=header&text=Italo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineering%20%7C%20Django%20%26%20Automation%20Systems&descAlign=50&descAlignY=65"/>
 </div>
 
-<!-- Intro -->
-<h3 align="center">🚀 Backend Developer | 🔷 Django & Discord Automation Expert</h3>
+<h3 align="center">
+Backend Engineer • Django • APIs • Automation Systems
+</h3>
 
 <p align="center">
-I build <b>high-performance backend systems</b> and <b>Discord automation solutions</b> that scale.<br/>
-Specializing in Django web applications, RESTful APIs, and custom Discord bots that solve real problems.
+I design, build, and maintain backend systems that need to be reliable in production.<br/>
+My work focuses on Django-based APIs, automation workflows, and event-driven systems
+that support real business processes.
 </p>
 
 ---
 
 ## 💼 What I Do
 
-**Backend Development**
-- Django & Django REST Framework for scalable web applications
-- RESTful API design and integration
-- Database architecture with PostgreSQL & MySQL
-- Authentication systems and custom admin interfaces
+### Backend Engineering
+- Design and implementation of Django & Django REST Framework applications
+- APIs built for long-term maintenance and scalability
+- Relational database modeling (PostgreSQL & MySQL)
+- Authentication, permissions, and role-based access control
+- Custom admin panels and internal tools
 
-**Discord Bot Development**
-- Custom commands, event handling & automation
-- Server moderation tools and user management
-- Ticket systems for community support
-- Role automation with approval workflows
-- Advanced logging systems (member activity, message tracking, channel changes)
+### Automation & Event-Driven Systems
+- Automation services using bots as backend workers
+- Discord-based systems for support, approvals, and internal workflows
+- Ticketing systems with permission control and audit logs
+- Event tracking and structured logging for traceability
 
-**DevOps & Automation**
-- Docker containerization & CI/CD pipelines
-- Server configuration and deployment
-- Performance optimization and monitoring
+### DevOps & Deployment
+- Dockerized environments for development and production
+- CI/CD pipelines and repeatable deployments
+- Server setup, monitoring, and performance tuning
+- Focus on predictable, low-maintenance infrastructure
 
 ---
 
@@ -61,21 +64,31 @@ Specializing in Django web applications, RESTful APIs, and custom Discord bots t
   </a>
 </p>
 
-### 🔷 Discord Bot Systems
-- **Advanced Logging System**: Tracks channel/role changes, member activity, nickname updates, message edits/deletions
-- **Ticket Support System**: Automated user support with role-based permissions
-- **Registration System**: Member onboarding with approval workflows and automatic role assignment
-- **Custom Embeds**: Branded visual identity for rules, announcements, and server information
-
-### 🔷 Django Applications
-- **RESTful APIs**: Scalable backend systems with Django REST Framework
-- **Database Optimization**: Advanced ORM queries and performance tuning
-- **Authentication Systems**: Custom user management and permission controls
-- **Admin Interfaces**: Tailored dashboards for efficient workflow management
+These projects focus on real-world constraints such as:
+- permission models and access control
+- data consistency and auditability
+- maintainable structure and clear responsibilities
+- production-like organization and deployment
 
 ---
 
-## 📊 GitHub Stats
+## 🔧 System Highlights
+
+### Automation & Support Systems
+- Ticket-based support workflows with role-based permissions
+- Approval flows and automated role assignment
+- Detailed audit logs (member actions, role changes, events)
+- Structured embeds and consistent system messaging
+
+### Django Applications
+- RESTful APIs with Django REST Framework
+- ORM optimization and performance-focused queries
+- Custom authentication and authorization logic
+- Admin interfaces designed for operational efficiency
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&cache_seconds=21600&text_color=FFFFFF" height="165"/>
@@ -84,18 +97,24 @@ Specializing in Django web applications, RESTful APIs, and custom Discord bots t
   <img src="https://tryhackme-badges.s3.amazonaws.com/italohugodf39.png?refresh=2" alt="TryHackMe Badge"/>
 </div>
 
+<p align="center">
+Security is treated as a supporting skill, applied mainly to safer backend design
+and system hardening.
+</p>
+
 ---
 
-## 🤝 Let's Work Together
+## 🤝 Working With Me
 
-I don't just write code—I architect solutions. Whether you need a robust Django platform or a feature-rich Discord bot, I deliver clean, secure, and maintainable systems built to scale.
+I help clients who need systems that actually run in production.
 
-**Available for:**
-- Freelance projects (Upwork & direct clients)
-- Long-term backend development
-- Discord automation & community infrastructure
+That means:
+- clear architecture
+- predictable deployments
+- code another engineer can understand and maintain
 
-If you're looking for someone who can design, build, and maintain systems that scale, let’s talk.
+I'm comfortable joining existing projects, improving legacy code,
+or building new systems with growth in mind.
 
 ---
 
