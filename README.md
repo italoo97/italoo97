@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=200&section=header&text=Italo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20%7C%20Red%20Team&descAlign=50&descAlignY=65"/> </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=200&section=header&text=Italo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineering%20%7C%20Django%20%26%20Automation%20Systems&descAlign=50&descAlignY=65"/> </div>
 
 <h3 align="center">
 Backend Engineer • Django • APIs • Automation Systems
