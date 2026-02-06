@@ -54,13 +54,13 @@ that support real business processes.
 
 ## 🎯 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/italoo97/Ticket_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Ticket_System&show_icons=true&theme=shadow_red&hide_border=false&count_private=true&cache_seconds=21600&text_color=FFFFFF&title_color=FFFFFF" height="130"/>
-  </a>
-  <a href="https://github.com/italoo97/Car_dealership_Django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Car_dealership_Django&show_icons=true&theme=shadow_red&hide_border=false&count_private=true&cache_seconds=21600&text_color=FFFFFF&title_color=FFFFFF" height="130"/>
-  </a>
+<p align="center">   
+  <a href="https://github.com/italoo97/Ticket_System">     
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Ticket_System&show_icons=true&theme=shadow_red&hide_border=false&count_private=true&cache_seconds=21600&text_color=FFFFFF&title_color=FFFFFF" height="130"/>   
+  </a>   
+  <a href="https://github.com/italoo97/Car_dealership_Django">     
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Car_dealership_Django&show_icons=true&theme=shadow_red&hide_border=false&count_private=true&cache_seconds=21600&text_color=FFFFFF&title_color=FFFFFF" height="130"/>   
+  </a> 
 </p>
 
 These projects focus on real-world constraints such as:
