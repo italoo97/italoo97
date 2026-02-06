@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=200&section=header&text=Italo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineering%20%7C%20Django%20Systems&descAlign=50&descAlignY=65"/> </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=200&section=header&text=Italo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineering%20%7C%20Django%20%26%20API%20Systems&descAlign=50&descAlignY=65"/> </div>
 
 <h3 align="center">
 Backend Engineer • Django • APIs • Automation Systems
@@ -8,7 +8,7 @@ Backend Engineer • Django • APIs • Automation Systems
 
 <p align="center">
 I design, build, and maintain backend systems that need to be reliable in production.<br/>
-My work focuses on Django-based APIs, automation workflows, and event-driven systems
+My work focuses on Django and FastAPI APIs, automation workflows, and event-driven systems
 that support real business processes.
 </p>
 
@@ -39,17 +39,31 @@ that support real business processes.
 
 ## 🛠️ Tech Stack
 
+### Core Backend
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="50" title="Go"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="50" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI"/>
 </div>
 
+### Data & APIs
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
+</div>
+
+- Pydantic (data validation & schemas)
+- SQLAlchemy (ORM & query building)
+- OpenAPI / Swagger (API contracts)
+
+### Tooling & Infra
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" title="Docker"/>
+</div>
+
+- Poetry (dependency & environment management)
+- CI/CD pipelines
+- Linux-based deployments
 ---
 
 ## 🎯 Featured Projects
@@ -60,6 +74,8 @@ that support real business processes.
   </a>   
   <a href="https://github.com/italoo97/Car_dealership_Django">     
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Car_dealership_Django&show_icons=true&theme=shadow_red" height="130"/>   
+    Including both Django-based systems and FastAPI services focused on clean API design,
+explicit data validation, and maintainable architecture.
   </a> 
 </p>
 
@@ -91,15 +107,15 @@ These projects focus on real-world constraints such as:
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&cache_seconds=21600&text_color=FFFFFF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoo97&layout=compact&theme=shadow_red&hide_border=true&cache_seconds=21600&text_color=FFFFFF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoo97&layout=compact&theme=shadow_red&hide_border=true" height="165"/>
   <br><br>
   <img src="https://tryhackme-badges.s3.amazonaws.com/italohugodf39.png?refresh=2" alt="TryHackMe Badge"/>
 </div>
 
 <p align="center">
-Security is treated as a supporting skill, applied mainly to safer backend design
-and system hardening.
+Security is treated as a supporting engineering skill,
+applied to safer backend design and system hardening.
 </p>
 
 ---
