@@ -1,125 +1,144 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=200&section=header&text=Italo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20%7C%20Red%20Team&descAlign=50&descAlignY=65"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=200&section=header&text=Italo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineering%20%7C%20Django%20Systems&descAlign=50&descAlignY=65"/> </div>
 
-<!-- Intro -->
-<h3 align="center">🚀 Backend Developer | 🔷 Django & Discord Automation Expert</h3>
+<h3 align="center">
+Backend Engineer • Django • APIs • Automation Systems
+</h3>
 
 <p align="center">
-I build <b>high-performance backend systems</b> and <b>Discord automation solutions</b> that scale.<br/>
-Specializing in Django web applications, RESTful APIs, and custom Discord bots that solve real problems.
+I design, build, and maintain backend systems that need to be reliable in production.<br/>
+My work focuses on Django-based APIs, automation workflows, and event-driven systems
+that support real business processes.
 </p>
 
 ---
 
 ## 💼 What I Do
 
-**Backend Development**
-- Django & Django REST Framework for scalable web applications
-- RESTful API design and integration
-- Database architecture with PostgreSQL & MySQL
-- Authentication systems and custom admin interfaces
+### Backend Engineering
+- Design and implementation of Django & Django REST Framework applications
+- APIs built for long-term maintenance and scalability
+- Relational database modeling (PostgreSQL & MySQL)
+- Authentication, permissions, and role-based access control
+- Custom admin panels and internal tools
 
-**Discord Bot Development**
-- Custom commands, event handling & automation
-- Server moderation tools and user management
-- Ticket systems for community support
-- Role automation with approval workflows
-- Advanced logging systems (member activity, message tracking, channel changes)
+### Automation & Event-Driven Systems
+- Automation services using bots as backend workers
+- Discord-based systems for support, approvals, and internal workflows
+- Ticketing systems with permission control and audit logs
+- Event tracking and structured logging for traceability
 
-**DevOps & Automation**
-- Docker containerization & CI/CD pipelines
-- Server configuration and deployment
-- Performance optimization and monitoring
+### DevOps & Deployment
+- Dockerized environments for development and production
+- CI/CD pipelines and repeatable deployments
+- Server setup, monitoring, and performance tuning
+- Focus on predictable, low-maintenance infrastructure
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="50" title="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="50" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="50" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="50" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
 </div>
 
 ---
 
 ## 🎯 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/italoo97/Ticket_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Ticket_System&show_icons=true&theme=shadow_red&hide_border=false&count_private=true&cache_seconds=21600&text_color=FFFFFF&title_color=FFFFFF" height="130"/>
-  </a>
-  <a href="https://github.com/italoo97/Car_dealership_Django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Car_dealership_Django&show_icons=true&theme=shadow_red&hide_border=false&count_private=true&cache_seconds=21600&text_color=FFFFFF&title_color=FFFFFF" height="130"/>
-  </a>
+<p align="center">   
+  <a href="https://github.com/italoo97/Ticket_System">     
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Ticket_System&show_icons=true&theme=shadow_red" height="130"/>   
+  </a>   
+  <a href="https://github.com/italoo97/Car_dealership_Django">     
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Car_dealership_Django&show_icons=true&theme=shadow_red" height="130"/>   
+  </a> 
 </p>
 
-### 🔷 Discord Bot Systems
-- **Advanced Logging System**: Tracks channel/role changes, member activity, nickname updates, message edits/deletions
-- **Ticket Support System**: Automated user support with role-based permissions
-- **Registration System**: Member onboarding with approval workflows and automatic role assignment
-- **Custom Embeds**: Branded visual identity for rules, announcements, and server information
 
-### 🔷 Django Applications
-- **RESTful APIs**: Scalable backend systems with Django REST Framework
-- **Database Optimization**: Advanced ORM queries and performance tuning
-- **Authentication Systems**: Custom user management and permission controls
-- **Admin Interfaces**: Tailored dashboards for efficient workflow management
+These projects focus on real-world constraints such as:
+- permission models and access control
+- data consistency and auditability
+- maintainable structure and clear responsibilities
+- production-like organization and deployment
 
 ---
 
-## 📊 GitHub Stats
+## 🔧 System Highlights
+
+### Automation & Support Systems
+- Ticket-based support workflows with role-based permissions
+- Approval flows and automated role assignment
+- Detailed audit logs (member actions, role changes, events)
+- Structured embeds and consistent system messaging
+
+### Django Applications
+- RESTful APIs with Django REST Framework
+- ORM optimization and performance-focused queries
+- Custom authentication and authorization logic
+- Admin interfaces designed for operational efficiency
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&cache_seconds=21600&text_color=FFFFFF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoo97&layout=compact&theme=shadow_red&hide_border=true&cache_seconds=21600&text_color=FFFFFF" height="165"/>
-  <br><br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/italohugodf39.png?refresh=2" alt="TryHackMe Badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&cache_seconds=21600&text_color=FFFFFF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoo97&layout=compact&theme=shadow_red&hide_border=true&cache_seconds=21600&text_color=FFFFFF" height="165"/>
+  <br><br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/italohugodf39.png?refresh=2" alt="TryHackMe Badge"/>
 </div>
+
+<p align="center">
+Security is treated as a supporting skill, applied mainly to safer backend design
+and system hardening.
+</p>
 
 ---
 
-## 🤝 Let's Work Together
+## 🤝 Working With Me
 
-I don't just write code—I architect solutions. Whether you need a robust Django platform or a feature-rich Discord bot, I deliver clean, secure, and maintainable systems built to scale.
+I help clients who need systems that actually run in production.
 
-**Available for:**
-- Freelance projects (Upwork & direct clients)
-- Long-term backend development
-- Discord automation & community infrastructure
+That means:
+- clear architecture
+- predictable deployments
+- code another engineer can understand and maintain
 
-If you're looking for someone who can design, build, and maintain systems that scale, let’s talk.
+I'm comfortable joining existing projects, improving legacy code,
+or building new systems with growth in mind.
 
 ---
 
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/italohbsantos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:italohugodf39@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~013e013fd8a15d5ca2" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/italohbsantos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:italohugodf39@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~013e013fd8a15d5ca2" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=120&section=footer"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/italoo97/italoo97/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/italoo97/italoo97/output/snake.svg" alt="Snake animation" />
 </div>
