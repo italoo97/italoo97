@@ -1,6 +1,7 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=200&section=header&text=Italo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineering%20%7C%20Django%20%26%20API%20Systems&descAlign=50&descAlignY=65"/> </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=200&section=header&text=Italo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineering%20%7C%20Django%20API%20Systems&descAlign=50&descAlignY=65"/>
+ </div>
 
 <h3 align="center">
 Backend Engineer • Django • APIs • Automation Systems
@@ -74,11 +75,10 @@ that support real business processes.
   </a>   
   <a href="https://github.com/italoo97/Car_dealership_Django">     
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Car_dealership_Django&show_icons=true&theme=shadow_red" height="130"/>   
-    Including both Django-based systems and FastAPI services focused on clean API design,
-explicit data validation, and maintainable architecture.
   </a> 
 </p>
-
+Including both Django-based systems and FastAPI services focused on clean API design,
+explicit data validation, and maintainable architecture.
 
 These projects focus on real-world constraints such as:
 - permission models and access control
