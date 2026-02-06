@@ -90,8 +90,12 @@ These projects focus on real-world constraints such as:
 
 ## 📊 GitHub Activity
 
-![GitHub followers](https://img.shields.io/github/followers/italoo97?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/italoo97?style=for-the-badge)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&cache_seconds=21600&text_color=FFFFFF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoo97&layout=compact&theme=shadow_red&hide_border=true&cache_seconds=21600&text_color=FFFFFF" height="165"/>
+  <br><br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/italohugodf39.png?refresh=2" alt="TryHackMe Badge"/>
+</div>
 
 <p align="center">
 Security is treated as a supporting skill, applied mainly to safer backend design
