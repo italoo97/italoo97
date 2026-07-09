@@ -1,39 +1,42 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=200&section=header&text=Italo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineering%20%7C%20Django%20API%20Systems&descAlign=50&descAlignY=65"/>
- </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=200&section=header&text=Italo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20AI%20Systems%20Engineering&descAlign=50&descAlignY=65"/>
+</div>
 
 <h3 align="center">
-Backend Engineer • Django • APIs • Automation Systems
+Backend & AI Systems Engineer • Python • Django / FastAPI • AI Agents • n8n
 </h3>
 
 <p align="center">
-I design, build, and maintain backend systems that need to be reliable in production.<br/>
-My work focuses on Django and FastAPI APIs, automation workflows, and event-driven systems
-that support real business processes.
+Most AI agents can answer questions. I build AI systems that <b>take action</b> —<br/>
+they call APIs, process payments, route emails, and run reliably in production.<br/><br/>
+⭐ <b>Top Rated on Upwork</b> · 100% Job Success · 240+ billed hours
 </p>
 
 ---
 
 ## 💼 What I Do
 
+### AI & LLM Systems
+- AI agents built with **LangGraph** and **LangChain** — custom tools, memory management, production-ready orchestration
+- LLM integrations (**OpenAI**, **Claude / MCP**) connected to real business operations, not isolated chatbots
+- AI email triage: classification, confidence scoring, automated routing, human fallback
+- **n8n** workflows bridging LLMs, webhooks, and backend services
+
 ### Backend Engineering
-- Design and implementation of Django & Django REST Framework applications
-- APIs built for long-term maintenance and scalability
-- Relational database modeling (PostgreSQL & MySQL)
-- Authentication, permissions, and role-based access control
-- Custom admin panels and internal tools
+- APIs with **Django**, **Django REST Framework**, and **FastAPI** built for long-term maintenance
+- Relational database modeling (**PostgreSQL**, MySQL) and explicit data validation with **Pydantic**
+- Authentication, permissions, and role-based access control (RBAC)
+- Payment integrations: **Mercado Pago**, Stripe — webhook routing and subscription management
 
 ### Automation & Event-Driven Systems
-- Automation services using bots as backend workers
-- Discord-based systems for support, approvals, and internal workflows
-- Ticketing systems with permission control and audit logs
-- Event tracking and structured logging for traceability
+- Automation services using bots as backend workers (**Discord**, **Telegram**, WhatsApp Business, Slack)
+- Ticketing and approval systems with permission control and audit logs
+- Web scraping and data extraction pipelines built for reliability
 
 ### DevOps & Deployment
-- Dockerized environments for development and production
-- CI/CD pipelines and repeatable deployments
-- Server setup, monitoring, and performance tuning
+- **Dockerized** environments for development and production
+- CI/CD pipelines with **GitHub Actions**, Linux-based deployments
 - Focus on predictable, low-maintenance infrastructure
 
 ---
@@ -45,62 +48,76 @@ that support real business processes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" title="Go"/>
 </div>
+
+### AI & Automation
+- **LangChain / LangGraph** — multi-agent orchestration, custom tools, memory
+- **OpenAI API / Claude API / MCP** — LLMs wired to real backend actions
+- **n8n** — event-driven automation and AI workflow orchestration
 
 ### Data & APIs
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="100" title="sqlalchemy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" width="100" title="swagger"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original-wordmark.svg" width="100" title="openapi"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="100" title="SQLAlchemy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" width="100" title="Swagger"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original-wordmark.svg" width="100" title="OpenAPI"/>
 </div>
+
 - Pydantic (data validation & schemas)
 
 ### Tooling & Infra
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="50" title="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" width="50" title="Poetry"/>
 </div>
 
-- CI/CD pipelines
-- Linux-based deployments
 ---
 
 ## 🎯 Featured Projects
 
-<p align="center">   
-  <a href="https://github.com/italoo97/Ticket_System">     
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Ticket_System&show_icons=true&theme=shadow_red" height="130"/>   
-  </a>   
-  <a href="https://github.com/italoo97/Car_dealership_Django">     
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Car_dealership_Django&show_icons=true&theme=shadow_red" height="130"/>   
-  </a> 
+<p align="center">
+  <a href="https://github.com/italoo97/telegram_n8n">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=telegram_n8n&show_icons=true&theme=shadow_red" height="130"/>
+  </a>
+  <a href="https://github.com/italoo97/Ticket_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Ticket_System&show_icons=true&theme=shadow_red" height="130"/>
+  </a>
 </p>
-Including both Django-based systems and FastAPI services focused on clean API design,
-explicit data validation, and maintainable architecture.
+<p align="center">
+  <a href="https://github.com/italoo97/WebMiner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=WebMiner&show_icons=true&theme=shadow_red" height="130"/>
+  </a>
+  <a href="https://github.com/italoo97/car_api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=car_api&show_icons=true&theme=shadow_red" height="130"/>
+  </a>
+</p>
 
-These projects focus on real-world constraints such as:
-- permission models and access control
-- data consistency and auditability
-- maintainable structure and clear responsibilities
+These projects deal with real-world constraints:
+
+- payment processing and webhook reliability
+- permission models, access control, and auditability
+- explicit data validation and maintainable architecture
 - production-like organization and deployment
+
+**Client work highlights** (private repos — details on request):
+- 🤖 AI-powered payment automation platform — Django + n8n + Mercado Pago, intelligent webhook routing and subscription management
+- 🧠 Multi-agent system — LangGraph + LangChain with custom tools and memory
+- 📧 AI email triage — OpenAI classification, confidence scoring, automated routing, human fallback
+- 🔌 Claude Skills connected to live backend services through n8n webhooks
 
 ---
 
-## 🔧 System Highlights
+## 📜 Certifications
 
-### Automation & Support Systems
-- Ticket-based support workflows with role-based permissions
-- Approval flows and automated role assignment
-- Detailed audit logs (member actions, role changes, events)
-- Structured embeds and consistent system messaging
+**25+ certificates** in Docker, CI/CD (GitHub Actions), Django, Go, n8n + AI automation, Pentest, Network Security, and Threat Modeling.
 
-### Django Applications
-- RESTful APIs with Django REST Framework
-- ORM optimization and performance-focused queries
-- Custom authentication and authorization logic
-- Admin interfaces designed for operational efficiency
+➡️ **[See all certificates](https://github.com/italoo97/Certificates)** — Alura (PT/EN) + PDS courses (Django Master, FastAPI, AI Master, Integration Master)
+
+Currently studying: **Cybersecurity degree** (Gran Centro Universitário) + **Applied AI Engineering** extension program (UniPDS).
 
 ---
 
@@ -114,23 +131,21 @@ These projects focus on real-world constraints such as:
 </div>
 
 <p align="center">
-Security is treated as a supporting engineering skill,
-applied to safer backend design and system hardening.
+Security is a supporting engineering skill in everything I build:<br/>
+RBAC, input validation, threat modeling, and safer backend design.
 </p>
 
 ---
 
 ## 🤝 Working With Me
 
-I help clients who need systems that actually run in production.
+I help clients who need systems that actually run in production. That means:
 
-That means:
-- clear architecture
-- predictable deployments
+- clear architecture and realistic estimates
+- predictable, containerized deployments
 - code another engineer can understand and maintain
 
-I'm comfortable joining existing projects, improving legacy code,
-or building new systems with growth in mind.
+I'm comfortable joining existing projects, improving legacy code, or building new systems with growth in mind.
 
 ---
 
@@ -139,6 +154,12 @@ or building new systems with growth in mind.
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~013e013fd8a15d5ca2" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/italohbsantos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:italohugodf39@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
