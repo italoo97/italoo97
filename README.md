@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=200&section=header&text=Italo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20AI%20Systems%20Engineering&descAlign=50&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF0000&height=200&section=header&text=Italo%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20AI%20Systems%20Engineering&descAlign=50&descAlignY=65"/>
 </div>
 
 <h3 align="center">
@@ -81,18 +81,18 @@ they call APIs, process payments, route emails, and run reliably in production.<
 
 <p align="center">
   <a href="https://github.com/italoo97/telegram_n8n">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=telegram_n8n&show_icons=true&theme=shadow_red" height="130"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=telegram_n8n&theme=shadow_red&cache_seconds=86400&v=2" height="130"/>
   </a>
   <a href="https://github.com/italoo97/Ticket_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Ticket_System&show_icons=true&theme=shadow_red" height="130"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Ticket_System&theme=shadow_red&cache_seconds=86400&v=2" height="130"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/italoo97/WebMiner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=WebMiner&show_icons=true&theme=shadow_red" height="130"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=WebMiner&theme=shadow_red&cache_seconds=86400&v=2" height="130"/>
   </a>
   <a href="https://github.com/italoo97/car_api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=car_api&show_icons=true&theme=shadow_red" height="130"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=car_api&theme=shadow_red&cache_seconds=86400&v=2" height="130"/>
   </a>
 </p>
 
@@ -124,8 +124,8 @@ Currently studying: **Cybersecurity degree** (Gran Centro Universitário) + **Ap
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoo97&layout=compact&theme=shadow_red&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true&cache_seconds=86400&v=2" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoo97&layout=compact&theme=shadow_red&hide_border=true&cache_seconds=86400&v=2" height="165"/>
   <br><br>
   <img src="https://tryhackme-badges.s3.amazonaws.com/italohugodf39.png?refresh=2" alt="TryHackMe Badge"/>
 </div>
