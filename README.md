@@ -149,12 +149,6 @@ I'm comfortable joining existing projects, improving legacy code, or building ne
   <a href="https://www.upwork.com/freelancers/~013e013fd8a15d5ca2" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/italohbsantos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:italohugodf39@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
