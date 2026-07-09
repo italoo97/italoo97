@@ -52,9 +52,14 @@ they call APIs, process payments, route emails, and run reliably in production.<
 </div>
 
 ### AI & Automation
-- **LangChain / LangGraph** — multi-agent orchestration, custom tools, memory
-- **OpenAI API / Claude API / MCP** — LLMs wired to real backend actions
-- **n8n** — event-driven automation and AI workflow orchestration
+<div align="center">
+  <img src="https://cdn.simpleicons.org/langchain/white" width="50" title="LangChain"/>
+  <img src="https://cdn.simpleicons.org/langgraph/white" width="50" title="LangGraph"/>
+  <img src="https://cdn.simpleicons.org/openai/white" width="50" title="OpenAI API"/>
+  <img src="https://cdn.simpleicons.org/claude" width="50" title="Claude API"/>
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol/white" width="50" title="MCP (Model Context Protocol)"/>
+  <img src="https://cdn.simpleicons.org/n8n" width="50" title="n8n"/>
+</div>
 
 ### Data & APIs
 <div align="center">
@@ -63,9 +68,8 @@ they call APIs, process payments, route emails, and run reliably in production.<
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="100" title="SQLAlchemy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" width="100" title="Swagger"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original-wordmark.svg" width="100" title="OpenAPI"/>
+  <img src="https://cdn.simpleicons.org/pydantic" width="50" title="Pydantic"/>
 </div>
-
-- Pydantic (data validation & schemas)
 
 ### Tooling & Infra
 <div align="center">
@@ -79,22 +83,12 @@ they call APIs, process payments, route emails, and run reliably in production.<
 
 ## 🎯 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/italoo97/telegram_n8n">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=telegram_n8n&theme=shadow_red&cache_seconds=86400&v=2" height="130"/>
-  </a>
-  <a href="https://github.com/italoo97/Ticket_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=Ticket_System&theme=shadow_red&cache_seconds=86400&v=2" height="130"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/italoo97/WebMiner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=WebMiner&theme=shadow_red&cache_seconds=86400&v=2" height="130"/>
-  </a>
-  <a href="https://github.com/italoo97/car_api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italoo97&repo=car_api&theme=shadow_red&cache_seconds=86400&v=2" height="130"/>
-  </a>
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| **[telegram_n8n](https://github.com/italoo97/telegram_n8n)** ![Stars](https://img.shields.io/github/stars/italoo97/telegram_n8n?style=flat&logo=github&color=FF0000) | Content seller for Telegram with n8n automation | JavaScript · n8n · Telegram API |
+| **[Ticket_System](https://github.com/italoo97/Ticket_System)** ![Stars](https://img.shields.io/github/stars/italoo97/Ticket_System?style=flat&logo=github&color=FF0000) | Discord support ticket system with transcript website | Python · Discord.py · DuckDB |
+| **[WebMiner](https://github.com/italoo97/WebMiner)** | Production-ready web scraping & data extraction | Python · Automation |
+| **[car_api](https://github.com/italoo97/car_api)** | REST API with explicit data validation | FastAPI · Pydantic · SQLAlchemy |
 
 These projects deal with real-world constraints:
 
@@ -124,8 +118,8 @@ Currently studying: **Cybersecurity degree** (Gran Centro Universitário) + **Ap
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true&cache_seconds=86400&v=2" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoo97&layout=compact&theme=shadow_red&hide_border=true&cache_seconds=86400&v=2" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true&cache_seconds=86400&v=3" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoo97&layout=compact&theme=shadow_red&hide_border=true&cache_seconds=518400&v=3" height="165"/>
   <br><br>
   <img src="https://tryhackme-badges.s3.amazonaws.com/italohugodf39.png?refresh=2" alt="TryHackMe Badge"/>
 </div>
