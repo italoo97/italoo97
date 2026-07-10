@@ -82,6 +82,8 @@ they call APIs, process payments, route emails, and run reliably in production.<
 ---
 
 ## 🎯 Featured Projects
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=italoo97&repo=italoo97/telegram_n8n&description_lines_count=2&theme=shadow_red" />
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -118,8 +120,8 @@ Currently studying: **Cybersecurity degree** (Gran Centro Universitário) + **Ap
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true&cache_seconds=86400&v=3" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoo97&layout=compact&theme=shadow_red&hide_border=true&cache_seconds=518400&v=3" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true&cache_seconds=86400&v=3" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=italoo97&layout=compact&theme=shadow_red&hide_border=true&cache_seconds=518400&v=3" height="165"/>
   <br><br>
   <img src="https://tryhackme-badges.s3.amazonaws.com/italohugodf39.png?refresh=2" alt="TryHackMe Badge"/>
 </div>
