@@ -55,7 +55,7 @@ they call APIs, process payments, route emails, and run reliably in production.<
 <div align="center">
   <img src="https://cdn.simpleicons.org/langchain/white" width="50" title="LangChain"/>
   <img src="https://cdn.simpleicons.org/langgraph/white" width="50" title="LangGraph"/>
-  <img src="https://cdn.simpleicons.org/openai/white" width="50" title="OpenAI API"/>
+  <img src="https://cdn.simpleicons.org/openai" width="50" title="OpenAI API"/>
   <img src="https://cdn.simpleicons.org/claude" width="50" title="Claude API"/>
   <img src="https://cdn.simpleicons.org/modelcontextprotocol/white" width="50" title="MCP (Model Context Protocol)"/>
   <img src="https://cdn.simpleicons.org/n8n" width="50" title="n8n"/>
@@ -83,14 +83,13 @@ they call APIs, process payments, route emails, and run reliably in production.<
 
 ## 🎯 Featured Projects
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=italoo97&repo=italoo97/telegram_n8n&description_lines_count=2&theme=shadow_red" />
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[telegram_n8n](https://github.com/italoo97/telegram_n8n)** ![Stars](https://img.shields.io/github/stars/italoo97/telegram_n8n?style=flat&logo=github&color=FF0000) | Content seller for Telegram with n8n automation | JavaScript · n8n · Telegram API |
-| **[Ticket_System](https://github.com/italoo97/Ticket_System)** ![Stars](https://img.shields.io/github/stars/italoo97/Ticket_System?style=flat&logo=github&color=FF0000) | Discord support ticket system with transcript website | Python · Discord.py · DuckDB |
-| **[WebMiner](https://github.com/italoo97/WebMiner)** | Production-ready web scraping & data extraction | Python · Automation |
-| **[car_api](https://github.com/italoo97/car_api)** | REST API with explicit data validation | FastAPI · Pydantic · SQLAlchemy |
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=italoo97&repo=italoo97/telegram_n8n&description_lines_count=2&theme=moltack" />
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=italoo97&repo=italoo97/study-mcp&description_lines_count=2&theme=moltack"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=italoo97&repo=italoo97/Ticket_System&description_lines_count=2&theme=moltack"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=italoo97&repo=italoo97/car_api&description_lines_count=2&theme=moltack"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=italoo97&repo=italoo97/Agent-Invest&description_lines_count=2&theme=moltack"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=italoo97&repo=italoo97/gesscar&description_lines_count=2&theme=moltack"/>
+</div>
 
 These projects deal with real-world constraints:
 
@@ -120,9 +119,7 @@ Currently studying: **Cybersecurity degree** (Gran Centro Universitário) + **Ap
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=italoo97&show_icons=true&theme=shadow_red&hide_border=true&cache_seconds=86400&v=3" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api?username=italoo97&layout=compact&theme=shadow_red&hide_border=true&cache_seconds=518400&v=3" height="165"/>
-  <br><br>
+  <img src="https://github-stats-extended.vercel.app/api?username=italoo97&rank_icon=github&show_icons=true&include_all_commits=true&theme=moltack" height="165"/>
   <img src="https://tryhackme-badges.s3.amazonaws.com/italohugodf39.png?refresh=2" alt="TryHackMe Badge"/>
 </div>
 
