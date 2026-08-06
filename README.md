@@ -110,7 +110,7 @@ These projects deal with real-world constraints:
 
 **25+ certificates** in Docker, CI/CD (GitHub Actions), Django, Go, n8n + AI automation, Pentest, Network Security, and Threat Modeling.
 
-➡️ **[See all certificates](https://github.com/italoo97/Certificates)** — Alura (PT/EN) + PDS courses (Django Master, FastAPI, AI Master, Integration Master)
+➡️ **[See all certificates](https://github.com/italoo97/Certificates)** — Alura (PT/EN) + PycodeBR courses (Django Master, Logic Master, FastAPI)
 
 Currently studying: **Cybersecurity degree** (Gran Centro Universitário) + **Applied AI Engineering** extension program (UniPDS).
 
