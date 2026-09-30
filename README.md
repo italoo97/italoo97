@@ -73,6 +73,7 @@ they call APIs, process payments, route emails, and run reliably in production.<
 
 ### Tooling & Infra
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/npm/@cloudflare/workers-types@5.20260929.1/+esm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="50" title="GitHub Actions"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" title="Linux"/>
