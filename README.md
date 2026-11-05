@@ -115,7 +115,7 @@ These projects deal with real-world constraints:
 Currently studying: **Cybersecurity degree** (Gran Centro Universitário) + **Applied AI Engineering** extension program (UniPDS).
 
 <div align="center">
-[<img src="https://images.credly.com/size/680x680/images/198ccc47-6b2f-45c1-bff0-80b2c980ea40/blob" width="120" alt="Nome do badge AWS"/>]
+<img src="https://images.credly.com/size/680x680/images/198ccc47-6b2f-45c1-bff0-80b2c980ea40/blob" width="120" alt="Nome do badge AWS"/>
 </div>
 
 ---
